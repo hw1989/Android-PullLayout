@@ -15,7 +15,7 @@ public class EyeView extends FrameLayout {
 
     private Paint paint;
     private Bitmap bitmap;
-
+    
     public EyeView(Context context) {
         super(context);
         init();
